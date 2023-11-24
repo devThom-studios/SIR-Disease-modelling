@@ -1,4 +1,3 @@
-# SIR-Disease-modelling
 ## SIR Model for Malaria Transmission
 
 A simple SIR model to demonstrate the transmission of Malaria. Please note that the parameters used are just for demonstration purposes and as such, the model does not accurately predict the spread of the disease.
@@ -47,3 +46,50 @@ For the simulation, initial conditions must be defined:
 - The model is simulated over a time grid (e.g., 365 days).
 - The differential equations are solved numerically using `odeint` from `scipy.integrate`.
 - The results (S, I, R over time) are plotted to visualize the dynamics of the disease spread and recovery.
+
+## SIR Model Epidemic Dynamics
+
+The provided plot is a graphical representation of the SIR (Susceptible, Infected, Recovered) model over the course of one year (365 days). It shows the dynamics of an infectious disease spreading through a population, with three distinct curves corresponding to the different compartments of the model:
+
+### Susceptible Population (Black Curve)
+
+- **Initial State:**
+  - Starts at the highest value, indicating the entire population is initially susceptible to the infection.
+  
+- **Progression:**
+  - Declines sharply over time as the disease spreads and individuals move from susceptible to infected.
+
+### Infected Population (Red Curve)
+
+- **Initial State:**
+  - Begins with a very low value, reflecting the few infections present at the start.
+  
+- **Rise to Peak:**
+  - Increases rapidly, representing the spread of the infection.
+  
+- **Decline:**
+  - After reaching a peak, it falls as the rate of new infections decreases, which could be due to the depletion of susceptible individuals.
+
+### Recovered Population (Green Curve)
+
+- **Initial State:**
+  - Starts at zero since no one has recovered from the infection initially.
+  
+- **Increase Over Time:**
+  - Rises as individuals recover from the infection or are removed from the susceptible and infected categories, leveling off when the outbreak has ended.
+
+### Key Observations
+
+- **Peak of Infection:**
+  - The peak of the infected curve is indicative of the most intense point of the outbreak.
+  
+- **Herd Immunity or Disease Burnout:**
+  - The plateauing of the susceptible curve, coupled with the decrease in infections, suggests a form of herd immunity or the burnout of the disease, where there are not enough susceptible individuals to sustain further transmission.
+
+- **Epidemic Conclusion:**
+  - The stabilization of all curves indicates the end of the epidemic within the simulated timeframe.
+
+### Conclusion
+
+The plot narrates the course of an infectious disease outbreak, starting with a susceptible population, escalating to a widespread infection, and eventually subsiding as the number of susceptible hosts diminishes, leading to the outbreak's conclusion.
+
