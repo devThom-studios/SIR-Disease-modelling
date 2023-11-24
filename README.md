@@ -68,7 +68,7 @@ For the simulation, initial conditions must be defined:
 
 The provided plot is a graphical representation of the SIR (Susceptible, Infected, Recovered) model over the course of one year (365 days). It shows the dynamics of an infectious disease spreading through a population, with three distinct curves corresponding to the different compartments of the model:
 
-### Susceptible Population (Black Curve)
+### Susceptible Population (Blue Curve)
 
 - **Initial State:**
   - Starts at the highest value, indicating the entire population is initially susceptible to the infection.
@@ -76,7 +76,7 @@ The provided plot is a graphical representation of the SIR (Susceptible, Infecte
 - **Progression:**
   - Declines sharply over time as the disease spreads and individuals move from susceptible to infected.
 
-### Infected Population (Red Curve)
+### Infected Population (Orange Curve)
 
 - **Initial State:**
   - Begins with a very low value, reflecting the few infections present at the start.
