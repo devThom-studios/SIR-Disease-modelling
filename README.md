@@ -100,3 +100,6 @@ The provided plot is a graphical representation of the SIR (Susceptible, Infecte
 
 The plot narrates the course of an infectious disease outbreak, starting with a susceptible population, escalating to a widespread infection, and eventually subsiding as the number of susceptible hosts diminishes, leading to the outbreak's conclusion.
 
+
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
