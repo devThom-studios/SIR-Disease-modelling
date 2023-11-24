@@ -1,17 +1,8 @@
 <p>
-{\color{red}Note: \space The \space model \space doesn't \space anticipate \space the \space disease's \space spread \space precisely}
+## {\color{red}Note:} The model doesn't anticipate the disease's spread precisely because the parameters are only used for demonstration
 
    
 </p>
-
-<p>
-
-{\color{red}\space because \space the \space parameters \space are \space only \space used \space for \space demonstration.}
-
-   
-</p>
-
-
 
 ## SIR Model for Malaria Transmission
 ### FOURTH YEAR - SECOND SEMESTER 2020-2021 ACADEMIC YEAR
