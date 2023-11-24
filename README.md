@@ -1,7 +1,7 @@
 ## SIR Model for Malaria Transmission
 ### FOURTH YEAR - SECOND SEMESTER 2020-2021 ACADEMIC YEAR
 ### MET 462 BIOMETEOROLOGY AND HUMAN HEALTH
-
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 <p style="color: red;">
    Note that the model does not anticipate the disease's spread precisely because the parameters are only used for demonstration.
 </p>
