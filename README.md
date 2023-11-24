@@ -19,9 +19,9 @@ The SIR model is a simple mathematical model used to understand the spread of in
 The model is governed by a set of ordinary differential equations (ODEs) which describe the rate of movement between these compartments:
 
 1. **Susceptible Equation:**
-  $$
-\frac{dS}{dt} = \mu - \frac{\beta S I}{P} - \theta S
-$$
+
+$$\left( \frac{dS}{dt} = \mu - \frac{\beta S I}{P} - \theta S \right)$$ 
+
 
    - \( $\mu$ \): Number of births per day (adding to the susceptible population).
    - \( $\beta$ \): Transmission rate (how quickly the disease spreads from infected to susceptible).
@@ -31,7 +31,7 @@ $$
    - \( P \): Total population.
 
 2. **Infected Equation:**
-   $$ \frac{dI}{dt} = \frac{\beta S I}{P} - \theta I - \alpha I - \gamma I $$
+   $$\left( \frac{dI}{dt} = \frac{\beta S I}{P} - \theta I - \alpha I - \gamma I  \right)$$ 
    - \( $\alpha$ \): Death rate due to the disease.
    - \( $\gamma$ \): Recovery rate (rate at which infected individuals recover and move to the recovered class).
 
