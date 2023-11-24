@@ -1,13 +1,10 @@
 ## SIR Model for Malaria Transmission
 ### FOURTH YEAR - SECOND SEMESTER 2020-2021 ACADEMIC YEAR
 ### MET 462 BIOMETEOROLOGY AND HUMAN HEALTH
-$$
-{\color{red}Note that the model does not anticipate the disease's spread precisely because the parameters are only used for demonstration.}
-$$
-   
-<span style="color:red">
-Text content
-</span>
+$
+{\color{red}Note \space that \space the \space model \space does \space not \space anticipate \space the \space disease's \space spread \space precisely \space because \space the \space parameters \space are \space only \space used \space for \space demonstration.}
+$
+
 
 A simple SIR model to demonstrate the transmission of Malaria. Please note that the parameters used are just for demonstration purposes and as such, the model does not accurately predict the spread of the disease.
 
