@@ -7,7 +7,7 @@ $$
 
 <p>
 $$
-{\color{red}because \space the \space parameters \space are \space only \space used \space for \space demonstration.}
+{\color{red}\space because \space the \space parameters \space are \space only \space used \space for \space demonstration.}
 $$
    
 </p>
