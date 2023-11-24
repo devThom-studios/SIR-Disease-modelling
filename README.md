@@ -31,7 +31,7 @@ $$ \frac{dS}{dt} = \mu - \frac{\beta S I}{P} - \theta S $$
    - \( P \): Total population.
 
 2. **Infected Equation:**
-$$ \frac{dI}{dt} = \frac{\beta S I}{P} - \theta I - \alpha I - \gamma I $$
+$$ \frac{dI}{dt} = \frac{\beta S I}{P}  $$
    
    - \( $\alpha$ \): Death rate due to the disease.
    - \( $\gamma$ \): Recovery rate (rate at which infected individuals recover and move to the recovered class).
