@@ -1,5 +1,5 @@
 <p>
-## {\color{red}Note:} The model doesn't anticipate the disease's spread precisely because the parameters are only used for demonstration
+$${\color{red}Note:}$$ The model doesn't anticipate the disease's spread precisely because the parameters are only used for demonstration
 
    
 </p>
