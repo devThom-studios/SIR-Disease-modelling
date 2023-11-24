@@ -1,6 +1,5 @@
 
 $$
-$$
 {\color{red}Note \space that \space the \space model \space does \space not \space anticipate \space the \space disease's \space spread \space precisely}
 {\color{red}because \space the \space parameters \space are \space only \space used \space for \space demonstration.}
 $$
