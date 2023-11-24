@@ -20,7 +20,7 @@ The model is governed by a set of ordinary differential equations (ODEs) which d
 
 1. **Susceptible Equation:**
 
-$$\left( \frac{dS}{dt} = \mu - \frac{\beta S I}{P} - \theta S \right)$$ 
+$$ \frac{dS}{dt} = \mu - \frac{\beta S I}{P} - \theta S $$ 
 
 
    - \( $\mu$ \): Number of births per day (adding to the susceptible population).
