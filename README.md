@@ -2,7 +2,7 @@
 ### FOURTH YEAR - SECOND SEMESTER 2020-2021 ACADEMIC YEAR
 ### MET 462 BIOMETEOROLOGY AND HUMAN HEALTH
 $$
-{\color{blue}Note \space that \space the \space model \space does \space not \space anticipate \space the \space disease's \space spread \space precisely \space because \space the \space parameters \space are \space only \space used \space for \space demonstration.}
+{\color{red}Note \space that \space the \space model \space does \space not \space anticipate \space the \space disease's \space spread \space precisely \space because \space the \space parameters \space are \space only \space used \space for \space demonstration.}
 $$
 
 
