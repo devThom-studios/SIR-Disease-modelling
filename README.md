@@ -2,7 +2,7 @@
 ### FOURTH YEAR - SECOND SEMESTER 2020-2021 ACADEMIC YEAR
 ### MET 462 BIOMETEOROLOGY AND HUMAN HEALTH
 
-<p bgcolor='Red'>
+<p color='Red'>
    Note that the model does not anticipate the disease's spread precisely because the parameters are only used for demonstration.
 </p>
 
