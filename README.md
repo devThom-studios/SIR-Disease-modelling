@@ -1,6 +1,6 @@
 
 ```diff
-- Note that the model doesn't anticipate the disease's spread precisely because the parameters are only used for demonstration
+Note that the model doesn't anticipate the disease's spread precisely because the parameters are only used for demonstration
 ```
 
 ## SIR Model for Malaria Transmission
