@@ -36,7 +36,7 @@ $$
    - \( $\gamma$ \): Recovery rate (rate at which infected individuals recover and move to the recovered class).
 
 3. **Recovered Equation:**
-   $$ \frac{dR}{dt} = \gamma I - \theta R $$
+   $$\left(  \frac{dR}{dt} = \gamma I - \theta R \right)$$ 
    - \( R \): Number of recovered individuals.
 
 ### Initial Conditions
@@ -102,4 +102,4 @@ The plot narrates the course of an infectious disease outbreak, starting with a 
 
 
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
