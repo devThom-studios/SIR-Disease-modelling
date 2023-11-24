@@ -5,7 +5,9 @@ $$
 {\color{red}Note that the model does not anticipate the disease's spread precisely because the parameters are only used for demonstration.}
 $$
    
-
+<span style="color:red">
+Text content
+</span>
 
 A simple SIR model to demonstrate the transmission of Malaria. Please note that the parameters used are just for demonstration purposes and as such, the model does not accurately predict the spread of the disease.
 
