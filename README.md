@@ -4,6 +4,13 @@ $${\color{red}Note:}$$ The model doesn't anticipate the disease's spread precise
    
 </p>
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ te
+```
 ## SIR Model for Malaria Transmission
 ### FOURTH YEAR - SECOND SEMESTER 2020-2021 ACADEMIC YEAR
 ### MET 462 BIOMETEOROLOGY AND HUMAN HEALTH
