@@ -1,7 +1,10 @@
-
+<p>
 $$
 {\color{red}Note: \space The \space model \space doesn't \space anticipate \space the \space disease's \space spread \space precisely}
 $$
+   
+</p>
+
 thomas
 $$
 {\color{red} \space because \space the \space parameters \space are \space only \space used \space for \space demonstration.}
