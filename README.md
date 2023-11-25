@@ -65,10 +65,8 @@ For the simulation, initial conditions must be defined:
 - The results (S, I, R over time) are plotted to visualize the dynamics of the disease spread and recovery.
 
 ## SIR Model Epidemic Dynamics
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="./*.jpeg" width="350" alt="accessibility text">
-</p>
+![Alt text for the image](image.png)
+
 
 The provided plot is a graphical representation of the SIR (Susceptible, Infected, Recovered) model over the course of one year (365 days). It shows the dynamics of an infectious disease spreading through a population, with three distinct curves corresponding to the different compartments of the model:
 
